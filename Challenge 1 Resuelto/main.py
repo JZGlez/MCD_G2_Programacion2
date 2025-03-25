@@ -1,6 +1,6 @@
 import pandas as pd
 from preprocessing import preprocess_data
-import mlops_pipeline
+from mlops_pipeline import mlflow_func
 
 # Cargar el archivo
 file_path = "./data/breast-cancer-wisconsin.data.csv"
@@ -13,4 +13,4 @@ dependent_variable = ['diagnosis']
 X,y = preprocess_data(df,columns_to_delete, columns_to_encode, dependent_variable)
 
 #Corremos MLOps
-mlops_pipeline()
+mlflow_func(X,y)
