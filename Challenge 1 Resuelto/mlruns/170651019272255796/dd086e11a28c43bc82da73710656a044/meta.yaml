@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/Mi%20unidad/01_MCD/Ene_Jun_2025/02_Programacion2/MCD_G2_Programacion2/Challenge%201%20Resuelto/mlruns/170651019272255796/dd086e11a28c43bc82da73710656a044/artifacts
+end_time: 1742868819009
+entry_point_name: ''
+experiment_id: '170651019272255796'
+lifecycle_stage: active
+run_id: dd086e11a28c43bc82da73710656a044
+run_name: sedate-goose-502
+run_uuid: dd086e11a28c43bc82da73710656a044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742868798837
+status: 3
+tags: []
+user_id: pepez
