@@ -1,6 +1,6 @@
 # Challenge 02
-# Analysis of comments on Glassdoor. 
-# An NLP Pipeline with MLflow application
+#### Analysis of comments on Glassdoor. 
+#### An NLP Pipeline with MLflow application
 
 Based on a dataset "Glassdoor Job Reviews" which contains job descriptions for various industries in the UK.  
 This project analyzes the **headline** column of the dataset a general conclusion of the appreciation from other users doing a pre-processing of the text in this column, and the classification and sentiment analysis. 
