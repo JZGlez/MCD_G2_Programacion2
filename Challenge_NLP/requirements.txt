@@ -1,0 +1,7 @@
+pandas
+mlflow
+nltk
+spacy
+scikit-learn
+vaderSentiment
+pysentimiento
